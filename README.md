@@ -53,4 +53,4 @@ python Convolutional_Neural_Networks.py
 ## Dependencies
 1. Python version - Python 3.11.3
 2. PyTorch Version - torch Version: 2.0.1
-3. NVIDIA GPU - CUDA Version: 12.0 
+3. NVIDIA-SMI GPU - CUDA Version: 12.0 

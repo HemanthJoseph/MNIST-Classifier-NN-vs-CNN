@@ -32,3 +32,25 @@ Since the accuracy on the testing data is high too, we can say that our model ha
 generalized very well. The bias vs variance tradeoff is balanced in both the 
 architectures. We haven't over-trained the data and avoided the common pitfalls 
 that arise from such practices.
+
+## Usage
+* Clone the repo to your local machine
+```commandline
+git clone https://github.com/HemanthJoseph/MNIST-Classifier-NN-vs-CNN.git
+```
+* Open the folder in and code editor and then navigate to the src directory
+```commandline
+cd MNIST-Classifier-NN-vs-CNN/src/
+```
+* Run the code
+```commandline
+python Neural_Networks.py
+```
+```commandline
+python Convolutional_Neural_Networks.py
+```
+
+## Dependencies
+1. Python version - Python 3.11.3
+2. PyTorch Version - torch Version: 2.0.1
+3. NVIDIA GPU - CUDA Version: 12.0 

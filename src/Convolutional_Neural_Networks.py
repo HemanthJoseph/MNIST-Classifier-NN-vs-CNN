@@ -8,7 +8,7 @@ import torch.nn.functional as F  # functions without params, ReLU, Tanh etc
 from torch.utils.data import DataLoader  # Easier dataset mgmt, create mini batches etc
 import torchvision.datasets as datasets  # Standard datasets from PyTorch
 import torchvision.transforms as transforms  # transformation to perform on datasets
-import torchsummary
+import torchsummary  # try pip install torchsummary if you don't have this package
 
 
 # # ======== Create a fully connected Network ==========#
